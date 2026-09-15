@@ -4,6 +4,7 @@ A comprehensive C++ application demonstrating Object-Oriented Programming (OOP) 
 📩 Access & Support
 Full Source Code: If you require the complete, uncompressed source files or have specific questions about the architecture, please reach out via ♾️ Telegram: @AI172
 Executable Password: The provided executable file is password-protected. Please use the following password 🫆 to access it: M.SH.420
+
 📈 Credits
 If you find this project helpful for learning C++ architecture, please consider giving it a star! ⭐⭐⭐⭐
 
